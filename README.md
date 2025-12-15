@@ -105,4 +105,3 @@ git clone <repo_url>
 2. Install required Python packages
 3. Load preprocessed data and models using joblib for predictions
 4. Evaluate models or generate forecasts with new data
-5. 
