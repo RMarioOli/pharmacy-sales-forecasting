@@ -8,6 +8,9 @@ Multiple predictive models were built and evaluated, including:
 Models were evaluated using RMSE, MAE, and R² metrics to identify the best-performing approach.
 
 ### Dataset
+The dataset used in this project was sourced from Kaggle:
+https://www.kaggle.com/datasets/milanzdravkovic/pharma-sales-data/data
+
 The dataset consists of daily sales records for multiple drug categories. Key characteristics:
 * Time-series data including weekdays, dates, and sales volumes
 * Multiple drug categories, each with potential seasonal or promotional variations
